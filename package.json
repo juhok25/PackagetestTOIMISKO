@@ -1,0 +1,23 @@
+{
+  "name": "com.juho.cubespawner",
+  "version": "1.2.3",
+  "displayName": "PackageTestJuho",
+  "description": "This is an example package",
+  "unity": "2022.3",
+  "unityRelease": "7f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": { 
+  },
+  "keywords": [
+    "test",
+    "package",
+    "cubespawner"
+  ],
+  "author": {
+    "name": "JuhoKarjalainen",
+    "email": "test@example.com",
+    "url": "https://www.test.package.test"
+  }
+}
